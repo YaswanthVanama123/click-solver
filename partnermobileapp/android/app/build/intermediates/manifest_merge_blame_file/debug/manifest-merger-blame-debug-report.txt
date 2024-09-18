@@ -9,38 +9,38 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-11-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:4:5-77
-11-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:4:22-74
+11-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:4:5-77
+11-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:4:22-74
 12    <uses-permission android:name="android.permission.INTERNET" /> <!-- Add this line -->
-12-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:3:5-67
-12-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:3:22-64
+12-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:3:22-64
 13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-13-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:5:5-79
-13-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:5:22-76
+13-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:5:5-79
+13-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:5:22-76
 14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-14-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:6:5-81
-14-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:6:22-78
+14-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:6:5-81
+14-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:6:22-78
 15    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-15-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:7:5-85
-15-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:7:22-82
+15-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:7:5-85
+15-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:7:22-82
 16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-16-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:8:5-77
-16-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:8:22-74
+16-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:8:5-77
+16-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:8:22-74
 17    <uses-permission android:name="android.permission.WAKE_LOCK" />
-17-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:9:5-68
-17-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:9:22-65
+17-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:9:5-68
+17-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:9:22-65
 18    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-18-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:10:5-81
-18-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:10:22-78
+18-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:10:5-81
+18-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:10:22-78
 19    <uses-permission
-19-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:11:5-101
+19-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:11:5-101
 20        android:name="android.permission.USE_EXACT_ALARM"
-20-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:11:49-98
+20-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:11:49-98
 21        android:minSdkVersion="34" />
-21-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:11:22-48
+21-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:11:22-48
 22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-22-->[:react-native-firebase_auth] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
-22-->[:react-native-firebase_auth] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+22-->[:react-native-firebase_auth] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+22-->[:react-native-firebase_auth] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
 23    <!--
 24    This manifest file is used only by Gradle to configure debug-only capabilities
 25    for React Native Apps.
@@ -193,48 +193,48 @@
 94    </queries>
 95
 96    <application
-96-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:12:5-42:19
+96-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:12:5-42:19
 97        android:name="com.partnermobileapp.MainApplication"
-97-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:13:7-38
+97-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:13:7-38
 98        android:allowBackup="false"
-98-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:17:7-34
+98-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:17:7-34
 99        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 99-->[androidx.core:core:1.9.0] C:\Users\vanam\.gradle\caches\transforms-4\7b3030620952c75c04d8a4a854879c0e\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 100        android:debuggable="true"
 101        android:extractNativeLibs="false"
 102        android:icon="@mipmap/ic_launcher"
-102-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:15:7-41
+102-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:15:7-41
 103        android:label="@string/app_name"
-103-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:14:7-39
+103-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:14:7-39
 104        android:roundIcon="@mipmap/ic_launcher_round"
-104-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:16:7-52
+104-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:16:7-52
 105        android:theme="@style/AppTheme"
-105-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:18:7-38
+105-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:18:7-38
 106        android:usesCleartextTraffic="true" > <!-- react-native-background-geolocation license key -->
-106-->E:\clickSolver\partnermobileapp\android\app\src\debug\AndroidManifest.xml:8:9-44
+106-->F:\clickpull\click-solver\partnermobileapp\android\app\src\debug\AndroidManifest.xml:8:9-44
 107        <activity
-107-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:21:7-33:18
+107-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:21:7-33:18
 108            android:name="com.partnermobileapp.MainActivity"
-108-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:22:9-37
+108-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:22:9-37
 109            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-109-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:24:9-118
+109-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:24:9-118
 110            android:exported="true"
-110-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:27:9-32
+110-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:27:9-32
 111            android:label="@string/app_name"
-111-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:23:9-41
+111-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:23:9-41
 112            android:launchMode="singleTask"
-112-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:25:9-40
+112-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:25:9-40
 113            android:windowSoftInputMode="adjustResize" >
-113-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:26:9-51
+113-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:26:9-51
 114            <intent-filter>
-114-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:28:9-31:25
+114-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:28:9-31:25
 115                <action android:name="android.intent.action.MAIN" />
-115-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:29:13-65
-115-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:29:21-62
+115-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:29:13-65
+115-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:29:21-62
 116
 117                <category android:name="android.intent.category.LAUNCHER" />
-117-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:30:13-73
-117-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:30:23-70
+117-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:30:13-73
+117-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:30:23-70
 118            </intent-filter>
 119        </activity>
 120        <!--
@@ -245,87 +245,87 @@
 125        android:foregroundServiceType="location" />
 126        -->
 127        <meta-data
-127-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:39:9-41:69
+127-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:39:9-41:69
 128            android:name="com.google.android.gms.version"
-128-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:40:13-58
+128-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:40:13-58
 129            android:value="@integer/google_play_services_version" />
-129-->E:\clickSolver\partnermobileapp\android\app\src\main\AndroidManifest.xml:41:13-66
+129-->F:\clickpull\click-solver\partnermobileapp\android\app\src\main\AndroidManifest.xml:41:13-66
 130
 131        <service
-131-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-14:40
+131-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-14:40
 132            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService"
-132-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-103
+132-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-103
 133            android:exported="false" />
-133-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
+133-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
 134        <service
-134-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-21:19
+134-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-21:19
 135            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
-135-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-95
+135-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-95
 136            android:exported="false" >
-136-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
+136-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-37
 137            <intent-filter>
-137-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:29
+137-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:29
 138                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-138-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-78
-138-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:25-75
+138-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-78
+138-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:25-75
 139            </intent-filter>
 140        </service>
 141
 142        <receiver
-142-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-30:20
+142-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-30:20
 143            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
-143-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-96
+143-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-96
 144            android:exported="true"
-144-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-36
+144-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-36
 145            android:permission="com.google.android.c2dm.permission.SEND" >
-145-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-73
+145-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-73
 146            <intent-filter>
-146-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-29:29
+146-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-29:29
 147                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-147-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:17-81
-147-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:25-78
+147-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:17-81
+147-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:25-78
 148            </intent-filter>
 149        </receiver>
 150
 151        <meta-data
-151-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-34:36
+151-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-34:36
 152            android:name="firebase_messaging_auto_init_enabled"
-152-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-64
+152-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-64
 153            android:value="true" />
-153-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-33
+153-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-33
 154        <meta-data
-154-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-37:32
+154-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-37:32
 155            android:name="com.google.firebase.messaging.default_notification_channel_id"
-155-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-89
+155-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-89
 156            android:value="" />
-156-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-29
+156-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-29
 157        <meta-data
-157-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-40:47
+157-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-40:47
 158            android:name="com.google.firebase.messaging.default_notification_color"
-158-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-84
+158-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-84
 159            android:resource="@color/white" />
-159-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-44
+159-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-44
 160        <meta-data
-160-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+160-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
 161            android:name="app_data_collection_default_enabled"
-161-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+161-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
 162            android:value="true" />
-162-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+162-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
 163
 164        <service
-164-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+164-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
 165            android:name="com.google.firebase.components.ComponentDiscoveryService"
-165-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+165-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
 166            android:directBootAware="true"
-166-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+166-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
 167            android:exported="false" >
-167-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+167-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 168            <meta-data
-168-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+168-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
 169                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
-169-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+169-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
 170                android:value="com.google.firebase.components.ComponentRegistrar" />
-170-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+170-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
 171            <meta-data
 171-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\vanam\.gradle\caches\transforms-4\c72df50eba65451d1a034c22ba0527ea\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
 172                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -389,31 +389,31 @@
 201        </service>
 202
 203        <provider
-203-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+203-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
 204            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
-204-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+204-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
 205            android:authorities="com.partnermobileapp.reactnativefirebaseappinitprovider"
-205-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+205-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
 206            android:exported="false"
-206-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+206-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
 207            android:initOrder="99" />
-207-->[:react-native-firebase_app] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+207-->[:react-native-firebase_app] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
 208        <provider
-208-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+208-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
 209            android:name="com.imagepicker.ImagePickerProvider"
-209-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+209-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
 210            android:authorities="com.partnermobileapp.imagepickerprovider"
-210-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+210-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
 211            android:exported="false"
-211-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+211-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
 212            android:grantUriPermissions="true" >
-212-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+212-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
 213            <meta-data
-213-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:70
+213-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:70
 214                android:name="android.support.FILE_PROVIDER_PATHS"
-214-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+214-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
 215                android:resource="@xml/imagepicker_provider_paths" />
-215-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
+215-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
 216        </provider>
 217
 218        <activity
@@ -539,10 +539,10 @@
 281            android:permission="com.google.android.c2dm.permission.SEND" >
 281-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\vanam\.gradle\caches\transforms-4\7c320ae1f047f9fcdb67d1aa1758bf36\transformed\jetified-firebase-messaging-24.0.0\AndroidManifest.xml:32:13-73
 282            <intent-filter>
-282-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-29:29
+282-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-29:29
 283                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-283-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:17-81
-283-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:25-78
+283-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:17-81
+283-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:25-78
 284            </intent-filter>
 285
 286            <meta-data
@@ -565,10 +565,10 @@
 297            android:exported="false" >
 297-->[com.google.firebase:firebase-messaging:24.0.0] C:\Users\vanam\.gradle\caches\transforms-4\7c320ae1f047f9fcdb67d1aa1758bf36\transformed\jetified-firebase-messaging-24.0.0\AndroidManifest.xml:49:13-37
 298            <intent-filter android:priority="-500" >
-298-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:29
+298-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:29
 299                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-299-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-78
-299-->[:react-native-firebase_messaging] E:\clickSolver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:25-75
+299-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-78
+299-->[:react-native-firebase_messaging] F:\clickpull\click-solver\partnermobileapp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:25-75
 300            </intent-filter>
 301        </service>
 302
@@ -1064,11 +1064,11 @@
 562            android:grantUriPermissions="true" >
 562-->[com.transistorsoft:tslocationmanager-v21:3.5.5] C:\Users\vanam\.gradle\caches\transforms-4\305bd3396bc408dab985a8659b48413e\transformed\jetified-tslocationmanager-v21-3.5.5\AndroidManifest.xml:94:13-47
 563            <meta-data
-563-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:70
+563-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:70
 564                android:name="android.support.FILE_PROVIDER_PATHS"
-564-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+564-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
 565                android:resource="@xml/tslocationmanager_file_provider_path" />
-565-->[:react-native-image-picker] E:\clickSolver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
+565-->[:react-native-image-picker] F:\clickpull\click-solver\partnermobileapp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-67
 566        </provider> <!-- 为后续统计第三方app集成了哪些Kit，因此需要Kit在自己的AndroidManifest.xml文件中定义业务标签元数据 -->
 567        <meta-data
 567-->[com.huawei.hms:base:6.5.0.300] C:\Users\vanam\.gradle\caches\transforms-4\6658b7ed79974f30b0d65a29001321cc\transformed\jetified-base-6.5.0.300\AndroidManifest.xml:15:9-17:46
